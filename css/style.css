@@ -15,7 +15,7 @@ html, body{
 }
 /*--header start here--*/
 .header{
-	      background:url(../images/bg.jpg)no-repeat;
+	      /*background:url(../images/bg.jpg)no-repeat;*/
 	     min-height:590px;
 	     background-size:cover;
 	     -webkit-background-size:cover;
@@ -83,7 +83,7 @@ span.a{
 }
 /*--work start here--*/
 .work{
-	padding:4em 0;
+	padding:0em 0;
 }
 .work-row{}
 .work-column{
